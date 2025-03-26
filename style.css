@@ -11,16 +11,15 @@ body{
 }
 img{
     width: 20%;
-    outline-style: circle;
     border-radius: 50%;
     height: auto;
 }
 .card{
-    height: 50%;
+    height: 500px;
     width: 50%;
     padding: 1rem;
-    border-radius: 5%;
-    background-color: hsl(0, 0%, 20%);
+    border-radius: 3%;
+    background-color: hsl(0, 0%, 12%);
     box-shadow: 0 0 10px hsl(0, 0%, 10%);
     text-align: center;
 }
@@ -28,8 +27,55 @@ img{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    margin: 1rem;       
+
 }
-#github{
-    background-color: hsl(0, 0%, 12%);
-    color: hsl(0, 0%, 100%);
+#Github{
+    background-color:hsl(0, 0%, 24%);
+    color: hsl(0, 21%, 91%);
+    width: 90%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin: 2px;
+    text-decoration: none;
+}
+#Front-end{
+    background-color:hsl(0, 0%, 24%);
+    color: hsl(0, 21%, 91%);
+    width: 90%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin: 0.5rem;
+    text-decoration: none;
+
+}
+
+#Linkedin{
+    background-color:hsl(0, 0%, 24%);
+    color: hsl(0, 21%, 91%);
+    width: 90%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin: 0.5rem;
+    text-decoration: none;
+}
+#Twitter{
+    background-color:hsl(0, 0%, 24%);
+    color: hsl(0, 21%, 91%);
+    width: 90%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin: 0.5rem;
+    text-decoration: none;
+}
+
+#Instagram{
+    background-color:hsl(0, 0%, 24%);
+    color: hsl(0, 21%, 91%);
+    width: 90%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin: 0.5rem;
+    text-decoration: none;
 }
