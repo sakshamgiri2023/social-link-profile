@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img{
+    width: 20%;
+    outline-style: circle;
+    border-radius: 50%;
+    height: auto;
+}
+.card{
+    height: 50%;
+    width: 50%;
+    padding: 1rem;
+    border-radius: 5%;
+    background-color: hsl(0, 0%, 20%);
+    box-shadow: 0 0 10px hsl(0, 0%, 10%);
+    text-align: center;
+}
+.social-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#github{
+    background-color: hsl(0, 0%, 12%);
+    color: hsl(0, 0%, 100%);
+}
