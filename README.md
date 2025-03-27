@@ -1,4 +1,4 @@
-# Frontend Mentor - Social links profile solution
+# Social links profile solution
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -16,16 +16,13 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 
 
 ### Links
 
-- Live Site URL: 
-
+- Live Site URL: [https://social-link-pro.netlify.app/]
 ## My process
 
 ### Built with
