@@ -15,7 +15,7 @@ img{
     height: auto;
 }
 .card{
-    height: 500px;
+    height: 600px;
     width: 50%;
     padding: 1rem;
     border-radius: 3%;
@@ -34,7 +34,7 @@ img{
 #Github{
     background-color:hsl(0, 0%, 24%);
     color: hsl(0, 21%, 91%);
-    width: 90%;
+    width: 80%;
     padding: 0.5rem;
     border-radius: 5px;
     margin: 2px;
@@ -43,7 +43,7 @@ img{
 #Front-end{
     background-color:hsl(0, 0%, 24%);
     color: hsl(0, 21%, 91%);
-    width: 90%;
+    width: 80%;
     padding: 0.5rem;
     border-radius: 5px;
     margin: 0.5rem;
@@ -54,7 +54,7 @@ img{
 #Linkedin{
     background-color:hsl(0, 0%, 24%);
     color: hsl(0, 21%, 91%);
-    width: 90%;
+    width: 80%;
     padding: 0.5rem;
     border-radius: 5px;
     margin: 0.5rem;
@@ -63,7 +63,7 @@ img{
 #Twitter{
     background-color:hsl(0, 0%, 24%);
     color: hsl(0, 21%, 91%);
-    width: 90%;
+    width: 80%;
     padding: 0.5rem;
     border-radius: 5px;
     margin: 0.5rem;
@@ -73,7 +73,7 @@ img{
 #Instagram{
     background-color:hsl(0, 0%, 24%);
     color: hsl(0, 21%, 91%);
-    width: 90%;
+    width: 80%;
     padding: 0.5rem;
     border-radius: 5px;
     margin: 0.5rem;
